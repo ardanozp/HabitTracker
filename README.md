@@ -36,7 +36,7 @@ This project helped me **reinforce key SwiftUI concepts** while building a funct
 
 1. **Clone the repository**  
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/ardanozp/HabitTracker
 2. **Open the project in Xcode**
 
 3. **Run on iOS Simulator or your device**
